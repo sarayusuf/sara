@@ -1,0 +1,110 @@
+Sample.ID	Smoking.History	Stage	Country.of.Origin	Age	Gender	Ethnicity	Pack.Years.Smoked
+	CAT	ORD	CAT	CON	BIN	CAT	CON
+C3L.00081	Non-Smoker	II	usa	61	female	Caucasian	NA
+C3L.00415	Reformed Smoker	II	usa	64	female	Caucasian	35
+C3L.00445	Reformed Smoker	II	bulgaria	74	male	Caucasian	40
+C3L.00568	Reformed Smoker	I	usa	74	female	Caucasian	39
+C3L.00603	Reformed Smoker	I	usa	72	male	Caucasian	67.5
+C3L.00904	Smoker	II	usa	71	male	Caucasian	56
+C3L.00923	Reformed Smoker	I	usa	71	female	Caucasian	67.5
+C3L.00927	Smoker	III	usa	74	male	Caucasian	57
+C3L.00965	Reformed Smoker	II	russia	63	male	Caucasian	42
+C3L.00993	Non-Smoker	III	ukraine	75	male	Caucasian	NA
+C3L.01000	Smoker	I	russia	59	male	Caucasian	84
+C3L.01285	Smoker	II	usa	54	male	Caucasian	NA
+C3L.01455	Reformed Smoker	II	usa	88	male	Caucasian	NA
+C3L.01606	Reformed Smoker	I	usa	66	male	Caucasian	35
+C3L.01663	NA	III	usa	73	female	Caucasian	NA
+C3L.01838	Reformed Smoker	I	usa	70	male	Caucasian	33
+C3L.01884	NA	I	usa	74	male	Caucasian	NA
+C3L.02127	Smoker	II	bulgaria	66	male	Caucasian	78
+C3L.02130	Smoker	I	bulgaria	70	male	Caucasian	24
+C3L.02163	Smoker	II	bulgaria	57	male	Caucasian	20
+C3L.02164	Reformed Smoker	II	bulgaria	58	male	Caucasian	NA
+C3L.02168	Non-Smoker	II	bulgaria	66	male	Caucasian	NA
+C3L.02170	Reformed Smoker	I	bulgaria	73	male	Caucasian	38
+C3L.02349	NA	I	usa	81	female	Caucasian	NA
+C3L.02358	Reformed Smoker	I	usa	75	female	Caucasian	70
+C3L.02546	Reformed Smoker	I	usa	74	male	Caucasian	40
+C3L.02552	Smoker	I	usa	68	male	Caucasian	79.5
+C3L.02619	Smoker	III	bulgaria	70	male	Caucasian	72
+C3L.02625	Reformed Smoker	II	bulgaria	66	male	Caucasian	36
+C3L.02627	Smoker	I	bulgaria	64	female	Caucasian	45
+C3L.02629	Reformed Smoker	II	bulgaria	57	male	Caucasian	NA
+C3L.02646	Smoker	III	bulgaria	74	male	Caucasian	5
+C3L.02648	Reformed Smoker	II	bulgaria	72	male	Caucasian	3
+C3L.02649	Reformed Smoker	III	bulgaria	62	male	Caucasian	NA
+C3L.02650	Smoker	III	bulgaria	53	male	Caucasian	NA
+C3L.02660	Reformed Smoker	III	bulgaria	72	male	Caucasian	NA
+C3L.02665	NA	II	bulgaria	51	male	Caucasian	NA
+C3L.02669	Reformed Smoker	II	bulgaria	73	male	Caucasian	96.3
+C3L.02891	Reformed Smoker	II	usa	66	female	Caucasian	NA
+C3L.02951	Smoker	II	usa	61	male	Caucasian	20
+C3L.02963	Smoker	I	usa	71	male	Caucasian	56
+C3L.02964	Smoker	II	usa	58	male	Caucasian	42
+C3L.02968	Reformed Smoker	II	usa	64	male	Caucasian	NA
+C3L.02969	Reformed Smoker	I	usa	76	male	Caucasian	45
+C3L.03272	Reformed Smoker	IV	usa	67	male	Caucasian	NA
+C3L.03678	Reformed Smoker	III	usa	49	male	NA	70
+C3L.03961	Smoker	I	bulgaria	48	female	Caucasian	43.5
+C3L.03962	Smoker	I	bulgaria	65	male	Caucasian	20
+C3L.03963	Smoker	II	bulgaria	73	male	Caucasian	60
+C3L.03965	Reformed Smoker	III	bulgaria	54	male	Caucasian	40
+C3L.04013	Smoker	II	bulgaria	61	male	Caucasian	48.8
+C3L.04014	Smoker	I	bulgaria	57	male	Caucasian	43.5
+C3L.04071	Reformed Smoker	I	usa	69	male	Caucasian	79.5
+C3L.04391	Reformed Smoker	I	usa	70	male	Caucasian	10
+C3N.00211	Non-Smoker	III	bulgaria	40	male	NA	NA
+C3N.00221	Reformed Smoker	III	other	78	male	NA	36
+C3N.00247	Reformed Smoker	II	usa	77	female	Caucasian	2.5
+C3N.00497	Reformed Smoker	II	poland	57	female	Caucasian	31
+C3N.00555	Smoker	II	vietnam	59	male	Asian	3.2
+C3N.01017	Smoker	II	vietnam	56	male	Asian	5
+C3N.01020	Non-Smoker	I	vietnam	65	male	Asian	NA
+C3N.01025	Smoker	II	vietnam	52	male	Asian	1.5
+C3N.01028	Non-Smoker	I	vietnam	72	male	Asian	NA
+C3N.01194	Smoker	I	poland	69	male	Caucasian	45
+C3N.01411	Non-Smoker	I	vietnam	64	male	Asian	NA
+C3N.01846	Non-Smoker	I	ukraine	70	male	Slavic	NA
+C3N.01892	NA	II	poland	77	male	Caucasian	NA
+C3N.01893	NA	III	poland	70	male	Caucasian	NA
+C3N.02252	NA	NA	other	68	female	NA	NA
+C3N.02283	Reformed Smoker	II	poland	67	male	Caucasian	90
+C3N.02284	Smoker	II	poland	69	male	Caucasian	NA
+C3N.02285	Reformed Smoker	II	poland	72	female	Caucasian	35.3
+C3N.02288	Reformed Smoker	III	poland	58	female	Caucasian	40
+C3N.02289	Reformed Smoker	II	poland	73	male	Caucasian	NA
+C3N.02300	NA	II	poland	69	female	Caucasian	NA
+C3N.02339	Non-Smoker	II	ukraine	78	male	Slavic	NA
+C3N.02374	Reformed Smoker	II	china	67	male	Asian	42
+C3N.02375	Reformed Smoker	II	china	59	male	Asian	29
+C3N.02425	Smoker	II	china	61	male	Asian	40
+C3N.02426	Non-Smoker	I	china	69	female	Asian	NA
+C3N.02434	Reformed Smoker	I	usa	74	male	Caucasian	40
+C3N.02435	Reformed Smoker	II	usa	64	female	Caucasian	52.5
+C3N.02494	NA	NA	usa	66	female	Black	NA
+C3N.02523	NA	NA	usa	61	male	Caucasian	NA
+C3N.02575	Reformed Smoker	I	china	69	male	Asian	100
+C3N.02675	Reformed Smoker	III	poland	69	male	Caucasian	20
+C3N.03051	Smoker	III	china	65	male	Asian	NA
+C3N.03072	Reformed Smoker	III	china	62	male	Asian	NA
+C3N.03076	Smoker	II	china	68	male	Asian	NA
+C3N.03092	NA	NA	ukraine	61	male	Slavic	NA
+C3N.03093	NA	NA	ukraine	70	female	Slavic	NA
+C3N.03204	Smoker	I	china	62	male	Asian	NA
+C3N.03424	Reformed Smoker	I	poland	74	male	Caucasian	NA
+C3N.03425	Reformed Smoker	I	poland	64	female	Caucasian	NA
+C3N.03441	Reformed Smoker	III	poland	67	male	Caucasian	NA
+C3N.03486	Non-Smoker	I	ukraine	65	male	Slavic	NA
+C3N.03662	Non-Smoker	II	ukraine	64	male	Slavic	NA
+C3N.03848	Non-Smoker	III	china	56	female	Asian	NA
+C3N.03851	Smoker	II	china	44	male	Asian	NA
+C3N.03875	Reformed Smoker	I	china	68	male	Asian	NA
+C3N.03877	Smoker	III	china	53	male	Asian	NA
+C3N.03880	Smoker	II	china	76	male	Asian	108
+C3N.03882	Reformed Smoker	II	china	68	male	Asian	NA
+C3N.03886	Non-Smoker	I	ukraine	60	male	Slavic	NA
+C3N.04124	Smoker	I	china	62	male	Asian	19
+C3N.04127	Smoker	III	china	63	male	Asian	58.5
+C3N.04155	Non-Smoker	I	ukraine	76	male	Slavic	NA
+C3N.04162	Non-Smoker	II	ukraine	46	male	Slavic	NA
